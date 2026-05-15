@@ -1,0 +1,6 @@
+@ApprovalRequest_HostAddress = http://localhost:5105
+
+GET {{ApprovalRequest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

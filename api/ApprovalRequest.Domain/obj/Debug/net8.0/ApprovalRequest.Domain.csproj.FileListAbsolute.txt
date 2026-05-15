@@ -1,0 +1,12 @@
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\bin\Debug\net8.0\ApprovalRequest.Domain.deps.json
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\bin\Debug\net8.0\ApprovalRequest.Domain.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\bin\Debug\net8.0\ApprovalRequest.Domain.pdb
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.AssemblyInfoInputs.cache
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.AssemblyInfo.cs
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.sourcelink.json
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\refint\ApprovalRequest.Domain.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ApprovalRequest.Domain.pdb
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Domain\obj\Debug\net8.0\ref\ApprovalRequest.Domain.dll

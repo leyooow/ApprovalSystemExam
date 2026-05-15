@@ -1,0 +1,443 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.IntegrationTests\\ApprovalRequest.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj",
+        "projectName": "ApprovalRequest.Application",
+        "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj",
+        "projectName": "ApprovalRequest.Domain",
+        "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\ApprovalRequest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\ApprovalRequest.Infrastructure.csproj",
+        "projectName": "ApprovalRequest.Infrastructure",
+        "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\ApprovalRequest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj"
+              },
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Domain\\ApprovalRequest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.IntegrationTests\\ApprovalRequest.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.IntegrationTests\\ApprovalRequest.IntegrationTests.csproj",
+        "projectName": "ApprovalRequest.IntegrationTests",
+        "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.IntegrationTests\\ApprovalRequest.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj"
+              },
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\ApprovalRequest.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\ApprovalRequest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\ApprovalRequest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\ApprovalRequest.csproj",
+        "projectName": "ApprovalRequest",
+        "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\ApprovalRequest.csproj",
+        "packagesPath": "C:\\Users\\LEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LEO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Application\\ApprovalRequest.Application.csproj"
+              },
+              "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\ApprovalRequest.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LEO\\Documents\\GitHub\\ApprovalRequest\\ApprovalRequest.Infrastructure\\ApprovalRequest.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

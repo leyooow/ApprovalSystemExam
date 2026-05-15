@@ -1,0 +1,16 @@
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\bin\Debug\net8.0\ApprovalRequest.Application.deps.json
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\bin\Debug\net8.0\ApprovalRequest.Application.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\bin\Debug\net8.0\ApprovalRequest.Application.pdb
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\bin\Debug\net8.0\ApprovalRequest.Domain.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\bin\Debug\net8.0\ApprovalRequest.Domain.pdb
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.csproj.AssemblyReference.cache
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.AssemblyInfoInputs.cache
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.AssemblyInfo.cs
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.sourcelink.json
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\Approval.CDA2B128.Up2Date
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\refint\ApprovalRequest.Application.dll
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ApprovalRequest.Application.pdb
+C:\Users\LEO\Documents\GitHub\ApprovalRequest\ApprovalRequest.Application\obj\Debug\net8.0\ref\ApprovalRequest.Application.dll
